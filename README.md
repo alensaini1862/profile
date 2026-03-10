@@ -28,12 +28,16 @@ Aircrack-ng
 x64dbg
 Detect It Easy (DIE)
 Github
+
+
 Programming
 Python
 C Programming
 Java
 HTML
-CSS
+CSS  
+
+
 🎓 Education
 BCA – Computer Application, Mathematics
 Pt. Chiranji Lal Sharma Government College, Karnal
@@ -44,6 +48,8 @@ Merit – 2021
 
 10th – HBSE
 First – 2019
+
+
 
 🏆 Certifications
 Ethical Hacking
